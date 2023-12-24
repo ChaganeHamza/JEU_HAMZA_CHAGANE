@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>AboutDialog</class>
+ <widget class="QDialog" name="AboutDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>465</width>
+    <height>592</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>20</y>
+     <width>301</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Segoe UI Black</family>
+     <pointsize>16</pointsize>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="text">
+    <string>Le Jeu de Cartes Marocain</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>40</x>
+     <y>80</y>
+     <width>401</width>
+     <height>491</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Origines et Histoire
+Le jeu de cartes marocain, ancré dans la riche culture du Maroc,
+est plus qu'un simple passe-temps. Il est le reflet d'une histoire 
+et d'une tradition qui remontent à plusieurs siècles, lorsque 
+les cartes ont été introduites dans la région par les commerçants
+ et les voyageurs. Au fil du temps, ces jeux se sont imbibés des 
+nuances culturelles locales, donnant naissance à des variantes 
+uniques qui sont aujourd'hui jouées dans tout le pays.
+
+Les Variétés du Jeu
+Chaque région du Maroc a sa propre version du jeu de cartes,
+ avec des règles et des styles de jeu qui varient légèrement.
+ Cela dit, certains jeux de cartes sont devenus extrêmement 
+populaires et sont joués à l'échelle nationale. Parmi eux, 
+le Ronda, le Tricha, et le Coucou sont des jeux de cartes 
+traditionnels très appréciés. Ces jeux, souvent joués dans des
+ cafés et lors de rassemblements familiaux, ne sont pas seulement
+ des divertissements, mais aussi des moyens de renforcer les liens
+ communautaires et familiaux.
+
+Règles et Déroulement du Jeu
+Les règles des jeux de cartes marocains peuvent varier, mais 
+certains éléments restent communs. Typiquement, les jeux sont 
+joués avec un jeu de cartes traditionnel, qui peut être similaire
+ ou différent des jeux de cartes standard internationaux.
+ Les jeux impliquent généralement de la stratégie, de la compétence
+ et, dans certains cas, de la chance. Par exemple, dans le jeu de Ronda,
+ l'objectif est de former des paires et de capturer des cartes, tandis 
+que dans le Tricha, l'accent est mis sur la réalisation de certaines 
+combinaisons de cartes.
+
+L'Importance Culturelle
+Le jeu de cartes marocain est plus qu'une simple activité de loisir. 
+Il joue un rôle important dans les rencontres sociales, servant de 
+toile de fond à des discussions animées et à des échanges amicaux. 
+Les jeux de cartes sont souvent accompagnés de thé à la menthe et 
+de discussions, créant ainsi une atmosphère conviviale et accueillante.
+ Ces jeux ne sont pas seulement appréciés par les adultes ; ils sont 
+également un moyen pour les plus jeunes d'apprendre des compétences
+ importantes telles que la stratégie, la concentration et la patience.
+
+En somme, le jeu de cartes marocain est une facette importante du 
+patrimoine culturel du Maroc. Il incarne la convivialité, la stratégie,
+ et l'histoire, continuant à être une source de divertissement et de
+ lien social pour de nombreuses générations.</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
